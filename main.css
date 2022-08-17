@@ -41,7 +41,7 @@ body{
 
 @media (min-width:900px){
     .contener{
-        padding: 0 50px 0 50px;
+        padding: 0 40px 0 40px;
         width:90% 
 
     }
@@ -310,7 +310,7 @@ span{
 
 @media (min-width:900px){
     .contener .rated .reveo{
-       margin-right: 60px;
+       margin-right: 100px;
 
     }
 }
@@ -324,7 +324,7 @@ span{
 
 @media (min-width:900px){
     .contener .rated .rebort{
-       margin-right: 30px;
+       margin-right: 50px;
 
     }
 }
